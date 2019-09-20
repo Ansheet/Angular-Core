@@ -1,0 +1,9 @@
+C:\Users\aps\source\repos\WebApp\WebData\bin\Debug\netcoreapp2.2\WebData.deps.json
+C:\Users\aps\source\repos\WebApp\WebData\bin\Debug\netcoreapp2.2\WebData.dll
+C:\Users\aps\source\repos\WebApp\WebData\bin\Debug\netcoreapp2.2\WebData.pdb
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.csproj.CoreCompileInputs.cache
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.AssemblyInfoInputs.cache
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.AssemblyInfo.cs
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.dll
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.pdb
+C:\Users\aps\source\repos\WebApp\WebData\obj\Debug\netcoreapp2.2\WebData.csprojAssemblyReference.cache

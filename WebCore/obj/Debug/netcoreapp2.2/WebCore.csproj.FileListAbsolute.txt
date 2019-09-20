@@ -1,0 +1,12 @@
+C:\Users\aps\source\repos\WebApp\WebCore\bin\Debug\netcoreapp2.2\WebCore.deps.json
+C:\Users\aps\source\repos\WebApp\WebCore\bin\Debug\netcoreapp2.2\WebCore.dll
+C:\Users\aps\source\repos\WebApp\WebCore\bin\Debug\netcoreapp2.2\WebCore.pdb
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.csproj.CoreCompileInputs.cache
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.AssemblyInfoInputs.cache
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.AssemblyInfo.cs
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.dll
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.pdb
+C:\Users\aps\source\repos\WebApp\WebCore\bin\Debug\netcoreapp2.2\WebData.dll
+C:\Users\aps\source\repos\WebApp\WebCore\bin\Debug\netcoreapp2.2\WebData.pdb
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.csprojAssemblyReference.cache
+C:\Users\aps\source\repos\WebApp\WebCore\obj\Debug\netcoreapp2.2\WebCore.csproj.CopyComplete
