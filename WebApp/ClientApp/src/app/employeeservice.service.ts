@@ -13,8 +13,7 @@ export class EmployeeserviceService {
   constructor(private http: HttpClient) { }
 
 
-  postEmployee(formData: Employee) {
-    debugger;
+  postEmployee(formData: Employee) {    
     return this.http.post(this.rootUrl + '/api/Employee/Create', formData);
   }
   refreshList() {
